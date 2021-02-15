@@ -1,5 +1,3 @@
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
-
 # Projenin Yükleme Aşaması Ve indirilmesi gereken npm packagelar
 
 <ul>
@@ -41,7 +39,6 @@ export const CHANGE_CATEGORY = 'CHANGE_CATEGORY';
 <ul>
 <ol>Action.type: içerisin de iki adet parametre barındırır. Birisi action.type az önce anlattığımız isimlendirmelerdi.</ol>
 <ol>Action.payload: O aksyonun seçildiğinde alacağı değeri belirtir.</ol>
-<ol>Hangi aksyonun seçildiğini aksyon tipleri ile anlarken o aksonun değeri yani datasını da payloadlar belli eder.</ol>
 <ol>Örnek bir action yazılması (actionlar her component için ayrı ayrı yazılır.)
 <br/>
 export function changeCategory(category){
