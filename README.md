@@ -1,3 +1,6 @@
+[![](http://img.youtube.com/vi/VKyD3jzXZo8/0.jpg)](http://www.youtube.com/watch?v=VKyD3jzXZo8 "Redux-Shops")
+
+
 # Projenin Yükleme Aşaması Ve indirilmesi gereken npm packagelar
 
 <ul>
